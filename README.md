@@ -1,6 +1,12 @@
 # Teste-para-programador-js-JUNIOR
 
-Teste para saber se vc é um dev web júnior.
+Teste para saber se vc é um dev web júnior, no backend por hora.
+
+## Teste de Matemática
+
+
+## Teste de JavaScript Básico
+
 
 ## Teste de Arquitetura
 Para isso temos esse teste bem simples:
